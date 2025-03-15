@@ -7,4 +7,11 @@
         "UpdateSourceArgs": "1841660",
         "UpdateSourceVersion": "{{ServerBranch}}"
     },
+    {
+        "UpdateStageName": "ONC Core Auto Update",
+        "UpdateSourcePlatform": "All",
+        "UpdateSource": "GitRepo",
+        "UpdateSourceData": "https://github.com/OpenNanos-Community/onc-core.git",
+        "UpdateSourceTarget": "{{$FullBaseDir}}Packages"
+    },
 ]
