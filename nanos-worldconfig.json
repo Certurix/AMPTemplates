@@ -85,8 +85,8 @@
         "Hidden": false,
         "SkipIfEmpty": false,
         "EnumValues": {
-            "0": "",
-            "1": "--auto_download"
+            "False": "",
+            "True": "--auto_download \"\" "
         }
     },
     {
