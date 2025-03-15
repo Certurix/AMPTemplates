@@ -80,7 +80,7 @@
         "IsFlagArgument": false,
         "ParamFieldName": "vault",
         "IncludeInCommandLine": true,
-        "DefaultValue": "0",
+        "DefaultValue": "False",
         "Suffix": "",
         "Hidden": false,
         "SkipIfEmpty": false,
