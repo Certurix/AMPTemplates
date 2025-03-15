@@ -71,6 +71,25 @@
         }
     },
     {
+        "DisplayName": "Vault",
+        "Category": "Nanos World",
+        "Description": "Enable Vault automatic download for packages. Adds '--auto_download' startup parameter.",
+        "Keywords": "vault,autodownload",
+        "FieldName": "vault",
+        "InputType": "checkbox",
+        "IsFlagArgument": false,
+        "ParamFieldName": "vault",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "0",
+        "Suffix": "",
+        "Hidden": false,
+        "SkipIfEmpty": false,
+        "EnumValues": {
+            "0": "",
+            "1": "--auto_download"
+        }
+    },
+    {
         "DisplayName": "Player Limit",
         "Category": "Nanos World",
         "Description": "Sets the maximum number of players allowed on the server at one time",
