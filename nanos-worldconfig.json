@@ -83,7 +83,7 @@
         "DefaultValue": "False",
         "Suffix": "",
         "Hidden": false,
-        "SkipIfEmpty": false,
+        "SkipIfEmpty": true,
         "EnumValues": {
             "False": "",
             "True": "--auto_download \"\" "
